@@ -1,7 +1,10 @@
 {
-  "name": "ProSync: Business & Personal Task Manager",
-  "description": "A premium, Apple-style task management application for professionals, integrating business compliance, bill tracking, and personal productivity.",
+  "name": "ProSync iOS Native",
+  "description": "Native Swift and SwiftUI implementation of the ProSync Business & Personal Task Manager.",
+  "platform": "iOS",
+  "minSdkVersion": "16.0",
   "requestFramePermissions": [
-    "camera"
+    "camera",
+    "microphone"
   ]
 }
